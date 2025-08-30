@@ -7,7 +7,7 @@ const ChatHeader = ({ onGoBack }) => {
         <button className="back-btn" onClick={onGoBack} title="Back to Home">
           <i className="fas fa-arrow-left"></i>
         </button>
-        <h2>💰 Financial Advisor AI</h2>
+        <h2>Assetly</h2>
       </div>
       <div className="header-actions">
         <button className="header-btn" title="Share conversation">

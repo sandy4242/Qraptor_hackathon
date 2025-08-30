@@ -53,7 +53,7 @@ const LandingPage = ({ onStartChat }) => {
         <nav className="navbar">
           <div className="nav-brand">
             <i className="fas fa-coins"></i>
-            <span>FinanceAI</span>
+            <span>Assetly</span>
           </div>
           <button className="cta-button" onClick={onStartChat}>
             Start Chat
@@ -84,7 +84,7 @@ const LandingPage = ({ onStartChat }) => {
                 <div className="chat-dots">
                   <span></span><span></span><span></span>
                 </div>
-                <span>Financial Advisor AI</span>
+                <span>Assetly</span>
               </div>
               <div className="chat-messages-preview">
                 <div className="message-preview bot">
